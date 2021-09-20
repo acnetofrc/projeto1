@@ -1,0 +1,10 @@
+
+
+1) As folhas com os cálculos devem ser identificadas com o nome do aluno e a data.
+2) As folhas serão postadas no repositório do GitHub
+    2.1) O link será informado no formulário que será enviado pelo Teams.
+    2.2) Para postar as folhas com os cálculos os alunos terão 60 minutos após o término da última aula do dia.
+    2.3) Só será necessário mostrar as contas das questões 11 a 20. Estas envolvem cálculos de hexadecimal para decimal e vice-versa
+3) O tempo de prova é até o final da aula
+4) Finalizando a prova o aluno pode sair da sala. Não teremos outros assuntos a tratar na aula de hoja
+
